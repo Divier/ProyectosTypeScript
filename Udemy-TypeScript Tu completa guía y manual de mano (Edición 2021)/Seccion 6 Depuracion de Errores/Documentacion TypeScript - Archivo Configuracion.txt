@@ -1,0 +1,3 @@
+Sobre el archivo tsconfig.json
+
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
